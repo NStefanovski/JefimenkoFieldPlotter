@@ -14,11 +14,20 @@ import matplotlib.pyplot as plt
 def integrand(x):
     return (1/(4*const.pi*const.epsilon_0))*np.sin(x)
 
+def Tr(t,r,r_prime):
+    return t - (np.absolute(r-r_prime)/const.c)
+    
+
+def E(p,r,r_0,t)
+
+
 r = np.linspace(0.01, .02, num=1000)
 t = np.linspace(0, 10, num=1000)
 
 v=.8*const.c
 a=.5*const.c
+
+r_prime = v * t + 
 
 q = 2 * const.e * np.cos(r*t)
 #print("The Charges Are")
