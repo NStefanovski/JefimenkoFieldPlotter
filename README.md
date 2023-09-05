@@ -30,7 +30,7 @@ pip install numpy scipy matplotlib
 1. Clone this repository:
 
 ```bash
-git clone [repository-url]
+git clone [[repository-url]](https://github.com/NStefanovski/JefimenkoFieldPlotter)
 ```
 
 2. Navigate to the project directory:
@@ -69,4 +69,4 @@ This project is licensed under the MIT License. See `LICENSE` for more details.
 
 ---
 
-You'll need to fill in placeholders such as `[repository-url]` and `[project-directory]` with appropriate information. Additionally, adjust the licensing information if you choose a license other than MIT.
+You'll need to fill in placeholders such as `[repository-url]` and `[project-directory]` with appropriate information.
