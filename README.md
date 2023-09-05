@@ -42,7 +42,7 @@ cd [project-directory]
 3. Run the script:
 
 ```bash
-python jefimenko_field_plotter.py
+python JefimenkoFieldPlotter.py
 ```
 
 After running the script, you should see a plot depicting the variations of the electric field due to position, motion (velocity), and acceleration of the charge.
